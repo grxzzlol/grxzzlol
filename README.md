@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Grxzz
+- 👀 I own 1 Fivem server @ discord.gg/hrz
+- 🌱 I’m currently learning lua and I have developed roblox and fivem servers
